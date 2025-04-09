@@ -40,4 +40,12 @@ https://github.com/Arishanvass/taskmanagementsystem/blob/main/task.PNG?raw=true
 https://github.com/Arishanvass/taskmanagementsystem/blob/main/datasource.PNG?raw=true
 https://github.com/Arishanvass/taskmanagementsystem/blob/main/User.PNG?raw=true
 
+---
+
+### Key Points:
+- The **backend** is fully functional and provides a working API.
+- The **frontend** is experiencing issues that need fixing. You can still interact with the backend API directly (via Postman or similar tools) to test functionality.
+  
+Let me know if you need more modifications!
+
 
