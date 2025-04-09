@@ -1,27 +1,37 @@
-# TaskManagement
+# 📝 TaskManagement - Full Stack Web Application
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.3.11.
+A complete Task Management System using:
 
-## Development server
+- 💻 **Backend**: Spring Boot (Java)
+- 🌐 **Frontend**: Angular v13.3.11
+- 🗃️ **Database**: MySQL (via XAMPP/phpMyAdmin)
+- 🧪 **Testing**: JUnit 5 + Spring Boot Test
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
+---
 
-## Code scaffolding
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+---
 
-## Build
+## 🚀 Getting Started
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
+### ✅ Prerequisites
 
-## Running unit tests
+- Java 17
+- Node.js and npm
+- Angular CLI
+- MySQL + XAMPP (phpMyAdmin)
+- Maven
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+---
 
-## Running end-to-end tests
+## ⚙️ Backend Setup (Spring Boot)
 
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
+### 🔧 Configuration (`application.properties`)
 
-## Further help
+```properties
+spring.datasource.url=jdbc:mysql://localhost:3306/taskmanagement_db
+spring.datasource.username=root
+spring.datasource.password=
+spring.jpa.hibernate.ddl-auto=update
+spring.jpa.show-sql=true
 
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
