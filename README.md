@@ -34,7 +34,4 @@ spring.jpa.show-sql=true
 
 ### Data source images
 
-<img width="950" alt="User" src="https://github.com/user-attachments/assets/bcc70a38-c761-4cc6-9a93-101375bec244" />
-<img width="948" alt="datasource" src="https://github.com/user-attachments/assets/41084ba1-38c2-4577-b8c2-e630b0fb39e4" />
----<img width="946" alt="task" src="https://github.com/user-attachments/assets/cb83ed56-0c05-46ae-bab8-9f88af93b525" />
 
